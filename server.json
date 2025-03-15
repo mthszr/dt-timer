@@ -13,8 +13,16 @@
       "description": "Hamburguer",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 50,
+      "price": 60,
       "createdAt": "2025-03-15T13:40:25.573Z"
+    },
+    {
+      "id": 3,
+      "description": "Duolingo",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2025-02-15T13:40:25.573Z"
     }
   ]
 }
