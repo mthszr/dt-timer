@@ -6,7 +6,7 @@
       "type": "income",
       "category": "Venda",
       "price": 14000,
-      "createdAt": "2025-03-15T13:44:25.573Z"    
+      "createdAt": "2025-03-15T13:44:25.573Z"
     },
     {
       "id": 2,
@@ -23,6 +23,38 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2025-02-15T13:40:25.573Z"
+    },
+    {
+      "description": "Desenvolvimento de BOT",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-03-15T18:58:13.449Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 21,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-03-15T19:04:46.350Z",
+      "id": 5
+    },
+    {
+      "description": "Banana",
+      "price": 30,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-03-15T19:17:12.087Z",
+      "id": 6
+    },
+    {
+      "description": "Salário",
+      "price": 2000,
+      "category": "Salário",
+      "type": "income",
+      "createdAt": "2025-03-15T19:17:46.102Z",
+      "id": 7
     }
   ]
 }
