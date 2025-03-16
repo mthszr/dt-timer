@@ -24,7 +24,7 @@ Wweb application that allows users to track their income and expenses, providing
 - **Phosphor Icons** - Modern icon set
 - **Vite** - Fast build tooling
 
-## 🚀 Getting Started
+## 🔧 Usage
 
 ```bash
 # Clone the repository
