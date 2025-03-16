@@ -1,6 +1,6 @@
 ## 🚀 Project Overview
 
-Wweb application that allows users to track their income and expenses, providing an overview of their financial situation with a clean and intuitive interface.
+Web application that allows users to track their income and expenses, providing an overview of their financial situation with a clean and intuitive interface.
 
 ## ✨ Features
 
