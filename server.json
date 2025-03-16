@@ -55,6 +55,22 @@
       "type": "income",
       "createdAt": "2025-03-15T19:17:46.102Z",
       "id": 7
+    },
+    {
+      "description": "Coxinha",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-03-16T17:35:17.125Z",
+      "id": 8
+    },
+    {
+      "description": "Kit Festa",
+      "price": 97,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-03-16T17:39:06.874Z",
+      "id": 9
     }
   ]
 }
